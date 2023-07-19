@@ -4,9 +4,9 @@ Hey there, I'm Dylan![](https://user-images.githubusercontent.com/18350557/17630
 - 🌱 I’m studying Mechatronics Engineering at the University of Waterloo.
 - 🚀 A project I’m working on is creating an interactive python chatbot using neural networks.
 - 🤔 I’m looking to make connections for my future co-op terms so feel free to reach out.
+- ⚡ Fun fact: I've got a passion for weight lifting, and I love to improve upon myself everyday.
 - 📫 How to reach me: Just send me an [email](mailto:dylan.finlay33@gmail.com).
 - 🌍 I'm based in Ottawa, Canada
-- ⚡ Fun fact: I've got a passion for weight lifting, and I love to improve upon myself everyday.
 - 👾 Main languages: Python, C++
 
 
@@ -29,6 +29,7 @@ Hey there, I'm Dylan![](https://user-images.githubusercontent.com/18350557/17630
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/dylan_33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/DylanFinlay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dylanfinlay33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
