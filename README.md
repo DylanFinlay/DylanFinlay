@@ -13,8 +13,8 @@ Hey, I'm Dylan Finlay!
 ```
 - 💻 I'm looking to explore the world of Software Engineering and Machine Learning.
 - 🌱 I’m studying Mechatronics Engineering at the University of Waterloo.
-- 🚀 A project I’m working on is creating an interactive python chatbot using neural networks.
-- 🤔 I’m looking to make connections for my future co-op terms so feel free to reach out.
+- 🚀 I’m working on creating an interactive python chatbot using neural networks.
+- 🤔 I’m looking to make connections for my future co-op terms so reach out!
 - ⚡ Fun fact: I've got a passion for weight lifting, and I love to improve upon myself everyday.
 - 📫 How to reach me: Just send me an [email](mailto:dylan.finlay33@gmail.com).
 - 🌍 I'm based in Ottawa, Canada
