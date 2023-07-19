@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋
+
+- 🌱 I’m learning Mechatronics Engineering at the University of Waterloo.
+- 🔭 A project I’m currently working on is creating an interactive python chatbot using neural networks.
+- 🤔 I’m looking to make connections for my future co-op terms so feel free to reach out.
+- 📫 How to reach me: Feel free to send me an [email](mailto:dylan.finlay33@gmail.com).
+- ⚡ Fun fact: I've got a passion for weight lifting, and I love to improve upon myself everyday.
+
 
 <!--
 **DylanFinlay/DylanFinlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
