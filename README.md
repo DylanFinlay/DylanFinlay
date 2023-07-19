@@ -1,7 +1,6 @@
 <h1 align="center">
 Hey, I'm Dylan Finlay!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-====================================================================================================================================
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineering+Student;Aspiring+Software+Nerd;Full+Stack+Web+Developer;Robot+Builder;AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things;future+Tony+Stark&center=true&width=380&height=45"></a>
