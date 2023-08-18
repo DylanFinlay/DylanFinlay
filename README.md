@@ -18,6 +18,7 @@ Hey, I'm Dylan Finlay!
 - ⚡ Fun fact: I've got a passion for weight lifting, and I love to improve upon myself everyday.
 - 📫 How to reach me: Just send me an email, dylan.finlay33@gmail.com
 - 🌍 I'm based in Ottawa, Canada
+- 🕸️ Check out my website dylanfinlay.com
 - 👾 Main languages: Python, C++
 
 ```
