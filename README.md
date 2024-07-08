@@ -5,7 +5,7 @@ Hey, I'm Dylan Finlay!
 <img align="left" src="./dispo-portrait-waterfall-cropped.jpg" alt="Picture of me" width="250" />
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineering+Student;Aspiring+Software+Nerd;Full+Stack+Web+Developer;Robot+Builder;AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things;future+Tony+Stark&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineering+Student;Aspiring+Software+Engineer;Robot+Builder;Drone+Enthusiast;Full+Stack+Web+Developer;Always%20learning%20new%20things;future+Tony+Stark&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
