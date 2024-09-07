@@ -14,7 +14,7 @@ Hey, I'm Dylan Finlay!
 - 💻 I'm looking to explore the world of Software Engineering and Robotics.
 - 🌱 I’m studying Mechatronics Engineering at the University of Waterloo.
 - 🤔 I’m looking to make connections for my future co-op terms so reach out!
-- ⚡ Fun fact: I've got a passion for weight lifting, and I love to improve upon myself everyday.
+- ⚡ Fun fact: I've got a passion for travel and I want to explore the world.
 - 📫 How to reach me: Just send me an email, dylan.finlay33@gmail.com
 - 🌍 I'm based in Ottawa, Canada
 - 🕸️ Check out my website dylanfinlay.com
