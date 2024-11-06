@@ -72,6 +72,7 @@ Hey, I'm Dylan Finlay!
 
 
 <p align="center"> 
-  <a href="https://www.github.com/DylanFinlay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/dylanfinlay33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="mailto:dylan.finlay33@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="https://www.dylanfinlay.com" target="_blank" rel="noreferrer"><img src="./LogoDF512.png" width="32" height="32" /></a>
 </p>
