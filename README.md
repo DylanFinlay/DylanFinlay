@@ -18,7 +18,7 @@ Hey, I'm Dylan Finlay!
 - 📫 How to reach me: Just send me an email, dylan.finlay33@gmail.com
 - 🌍 I'm based in Ottawa, Canada
 - 🕸️ Check out my website dylanfinlay.com
-- 👾 Main languages: Python, C++
+- 👾 Main languages: Python, C/C++, Java
 
 ```
 <hr>
